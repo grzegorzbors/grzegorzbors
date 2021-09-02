@@ -9,4 +9,4 @@
 
 **Reach me on:**
 <br>
-<a href="https://www.linkedin.com/in/grzegorz-bors-24727390/" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="grzegorzbors" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/grzegorz-bors-24727390/" target="_blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="grzegorzbors" height="40" width="40" /></a>
